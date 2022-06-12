@@ -1,0 +1,4 @@
+/home/kosbeam/geant4-ws/sim/build/CMakeFiles/rebuild_cache.dir
+/home/kosbeam/geant4-ws/sim/build/CMakeFiles/Simulation.dir
+/home/kosbeam/geant4-ws/sim/build/CMakeFiles/edit_cache.dir
+/home/kosbeam/geant4-ws/sim/build/CMakeFiles/sim.dir
